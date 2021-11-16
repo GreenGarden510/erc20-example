@@ -1,0 +1,4 @@
+https://www.toptal.com/ethereum/create-erc20-token-tutorial
+
+deployed token: 0x03AA76807961A936ee421b01720e9b6F53DB7ff0
+0x03AA76807961A936ee421b01720e9b6F53DB7ff0
